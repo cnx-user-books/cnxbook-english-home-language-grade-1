@@ -1,3 +1,88 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11115</md:content-id>  <md:title>English Home Language Grade 1</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>5db75f61-7dce-4d62-9455-2a9b711d869e</md:uuid>
-<md:slug>english-home-language-grade-1</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Term 1</md:title>                                <col:content>                    <col:module document="m22997"/>                            <col:module document="m23000"/>                            <col:module document="m23004"/>                            <col:module document="m23048"/>                            <col:module document="m23049"/>                            <col:module document="m23052"/>                            <col:module document="m23055"/>                            <col:module document="m23057"/>                            <col:module document="m23061"/>                            <col:module document="m23066"/>                            <col:module document="m23079"/>                            <col:module document="m23078"/>                            <col:module document="m23107"/>                            <col:module document="m23106"/>                            <col:module document="m23108"/>                            <col:module document="m23164"/>                            <col:module document="m23346"/>                            <col:module document="m23348"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 2</md:title>                                <col:content>                    <col:module document="m23354"/>                            <col:module document="m23356"/>                            <col:module document="m23362"/>                            <col:module document="m23363"/>                            <col:module document="m23365"/>                            <col:module document="m23368"/>                            <col:module document="m23376"/>                            <col:module document="m23590"/>                            <col:module document="m23599"/>                            <col:module document="m23602"/>                            <col:module document="m23603"/>                            <col:module document="m23607"/>                            <col:module document="m23676"/>                            <col:module document="m23681"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 3</md:title>                                <col:content>                    <col:module document="m23687"/>                            <col:module document="m23693"/>                            <col:module document="m23700"/>                            <col:module document="m23703"/>                            <col:module document="m23732"/>                            <col:module document="m23734"/>                            <col:module document="m23742"/>                            <col:module document="m23843"/>                          </col:content>      </col:subcollection>                            <col:subcollection>        <md:title>Term 4</md:title>                                <col:content>                    <col:module document="m23846"/>                            <col:module document="m23849"/>                            <col:module document="m23850"/>                            <col:module document="m23854"/>                            <col:module document="m23861"/>                            <col:module document="m23872"/>                            <col:module document="m23874"/>                            <col:module document="m23876"/>                            <col:module document="m23879"/>                            <col:module document="m23883"/>                            <col:module document="m23886"/>                            <col:module document="m23892"/>                            <col:module document="m23904"/>                            <col:module document="m23908"/>                            <col:module document="m23914"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Siyavula Uploaders">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11115</md:content-id>
+    <md:title>English Home Language Grade 1</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>5db75f61-7dce-4d62-9455-2a9b711d869e</md:uuid>
+    <md:slug>english-home-language-grade-1</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Term 1</md:title>
+      <col:content>
+        <col:module document="m22997"/>
+        <col:module document="m23000"/>
+        <col:module document="m23004"/>
+        <col:module document="m23048"/>
+        <col:module document="m23049"/>
+        <col:module document="m23052"/>
+        <col:module document="m23055"/>
+        <col:module document="m23057"/>
+        <col:module document="m23061"/>
+        <col:module document="m23066"/>
+        <col:module document="m23079"/>
+        <col:module document="m23078"/>
+        <col:module document="m23107"/>
+        <col:module document="m23106"/>
+        <col:module document="m23108"/>
+        <col:module document="m23164"/>
+        <col:module document="m23346"/>
+        <col:module document="m23348"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 2</md:title>
+      <col:content>
+        <col:module document="m23354"/>
+        <col:module document="m23356"/>
+        <col:module document="m23362"/>
+        <col:module document="m23363"/>
+        <col:module document="m23365"/>
+        <col:module document="m23368"/>
+        <col:module document="m23376"/>
+        <col:module document="m23590"/>
+        <col:module document="m23599"/>
+        <col:module document="m23602"/>
+        <col:module document="m23603"/>
+        <col:module document="m23607"/>
+        <col:module document="m23676"/>
+        <col:module document="m23681"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 3</md:title>
+      <col:content>
+        <col:module document="m23687"/>
+        <col:module document="m23693"/>
+        <col:module document="m23700"/>
+        <col:module document="m23703"/>
+        <col:module document="m23732"/>
+        <col:module document="m23734"/>
+        <col:module document="m23742"/>
+        <col:module document="m23843"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Term 4</md:title>
+      <col:content>
+        <col:module document="m23846"/>
+        <col:module document="m23849"/>
+        <col:module document="m23850"/>
+        <col:module document="m23854"/>
+        <col:module document="m23861"/>
+        <col:module document="m23872"/>
+        <col:module document="m23874"/>
+        <col:module document="m23876"/>
+        <col:module document="m23879"/>
+        <col:module document="m23883"/>
+        <col:module document="m23886"/>
+        <col:module document="m23892"/>
+        <col:module document="m23904"/>
+        <col:module document="m23908"/>
+        <col:module document="m23914"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
